@@ -1,6 +1,9 @@
 # Linear-Regression-with-NumPy-and-Python
 
-packages used=numpy,pandas,seaborn,matplotlib
+Course Objectives:
 
-dataset-bike_sharing_data.txt
-This file contains 2 columns (Population,Profit)
+1.Implement the gradient descent algorithm from scratch.
+
+2.Perform univariate linear regression with Numpy and Python.
+
+3.Create data visualizations and plots using matplotlib.

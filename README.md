@@ -1,7 +1,7 @@
 # Linear-Regression-with-NumPy-and-Python
 
 
-Course Objectives:
+## Course Objectives:
 
 1.Implement the gradient descent algorithm from scratch.
 
@@ -10,7 +10,7 @@ Course Objectives:
 3.Create data visualizations and plots using matplotlib.
 
 
-**Tasks in this Guided Project**
+## Tasks in this Guided Project
 
 Task 1: Introduction and Import Libraries
 
